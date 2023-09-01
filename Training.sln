@@ -11,7 +11,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integration", "Integration"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{F0EA7102-7327-4F90-B58B-57E9F88206C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training.Services.CouponAPI", "Training.Services.CouponAPI\Training.Services.CouponAPI.csproj", "{9910FE3E-90DE-41F6-91E8-A2C9108B14E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Training.Services.CouponAPI", "Training.Services.CouponAPI\Training.Services.CouponAPI.csproj", "{9910FE3E-90DE-41F6-91E8-A2C9108B14E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{CD7D9AC7-2DBF-4590-A0AD-54CA6CAC159A}"
+	ProjectSection(SolutionItems) = preProject
+		deployment.yaml = deployment.yaml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
